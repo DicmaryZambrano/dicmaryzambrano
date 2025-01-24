@@ -49,4 +49,12 @@ I enjoy creative hobbies like designing dress patterns, sewing, illustrating, an
 - Web Frontend Development  
 - JavaScript Language  
 - Applied Programming  
-- ASP.NET Core Blazor  
+- ASP.NET Core Blazor
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dicmaryzambrano&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dicmaryzambrano&layout=compact&theme=radical)
